@@ -22,7 +22,6 @@ it('renders the component', async () => {
     })
   })
 
-  expect(getByTestId('loading')).toBeDefined()
   await waitForElement(() => getByTestId('resolved'))
-  expect(getByTestId('resolved')).toMatchSnapshot()
+  expect(getByTestId('component-main')).toMatchSnapshot()
 })

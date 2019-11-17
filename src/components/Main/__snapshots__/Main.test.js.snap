@@ -2,216 +2,220 @@
 
 exports[`renders the component 1`] = `
 <div
-  class="sc-bdVaJa crJopo"
-  data-testid="resolved"
+  data-testid="component-main"
 >
   <div
-    class="sc-bwzfXH KnFUT"
+    class="sc-bdVaJa crJopo"
+    data-testid="resolved"
   >
     <div
-      alt="Card of The Phantom Menace"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="The Phantom Menace"
-        class="sc-bxivhb evnSWs starwarts-movie-image-1"
-        title="The Phantom Menace"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of The Phantom Menace"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          The Phantom Menace
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="The Phantom Menace"
+          class="sc-bxivhb evnSWs starwarts-movie-image-1"
+          title="The Phantom Menace"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            The Phantom Menace
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of Attack of the Clones"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="Attack of the Clones"
-        class="sc-bxivhb evnSWs starwarts-movie-image-2"
-        title="Attack of the Clones"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of Attack of the Clones"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          Attack of the Clones
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="Attack of the Clones"
+          class="sc-bxivhb evnSWs starwarts-movie-image-2"
+          title="Attack of the Clones"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            Attack of the Clones
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of Revenge of the Sith"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="Revenge of the Sith"
-        class="sc-bxivhb evnSWs starwarts-movie-image-3"
-        title="Revenge of the Sith"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of Revenge of the Sith"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          Revenge of the Sith
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="Revenge of the Sith"
+          class="sc-bxivhb evnSWs starwarts-movie-image-3"
+          title="Revenge of the Sith"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            Revenge of the Sith
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of A New Hope"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="A New Hope"
-        class="sc-bxivhb evnSWs starwarts-movie-image-4"
-        title="A New Hope"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of A New Hope"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          A New Hope
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="A New Hope"
+          class="sc-bxivhb evnSWs starwarts-movie-image-4"
+          title="A New Hope"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            A New Hope
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of The Empire Strikes Back"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="The Empire Strikes Back"
-        class="sc-bxivhb evnSWs starwarts-movie-image-5"
-        title="The Empire Strikes Back"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of The Empire Strikes Back"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          The Empire Strikes Back
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="The Empire Strikes Back"
+          class="sc-bxivhb evnSWs starwarts-movie-image-5"
+          title="The Empire Strikes Back"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            The Empire Strikes Back
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of Return of the Jedi"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="Return of the Jedi"
-        class="sc-bxivhb evnSWs starwarts-movie-image-6"
-        title="Return of the Jedi"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of Return of the Jedi"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          Return of the Jedi
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="Return of the Jedi"
+          class="sc-bxivhb evnSWs starwarts-movie-image-6"
+          title="Return of the Jedi"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            Return of the Jedi
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div
-    class="sc-bwzfXH KnFUT"
-  >
     <div
-      alt="Card of The Force Awakens"
-      class="sc-htpNat ijQqde"
+      class="sc-bwzfXH KnFUT"
     >
       <div
-        alt="The Force Awakens"
-        class="sc-bxivhb evnSWs starwarts-movie-image-7"
-        title="The Force Awakens"
-      />
-      <div
-        class="sc-ifAKCX gclsdh"
+        alt="Card of The Force Awakens"
+        class="sc-htpNat ijQqde"
       >
-        <h1>
-          The Force Awakens
-        </h1>
-        <a
-          href="/movie-info"
+        <div
+          alt="The Force Awakens"
+          class="sc-bxivhb evnSWs starwarts-movie-image-7"
+          title="The Force Awakens"
+        />
+        <div
+          class="sc-ifAKCX gclsdh"
         >
-          <button
-            class="sc-EHOje dVuMfl"
+          <h1>
+            The Force Awakens
+          </h1>
+          <a
+            href="/movie-info"
           >
-            MORE INFO
-          </button>
-        </a>
+            <button
+              class="sc-EHOje dVuMfl"
+            >
+              MORE INFO
+            </button>
+          </a>
+        </div>
       </div>
     </div>
   </div>
