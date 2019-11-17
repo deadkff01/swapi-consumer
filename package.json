@@ -17,8 +17,8 @@
     "server": "node server-proxy",
     "dev": "run-p server start",
     "build": "react-scripts build",
-    "test": "react-scripts test --silent",
-    "coverage": "react-scripts test --coverage --silent",
+    "test": "react-scripts test",
+    "coverage": "react-scripts test --coverage",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
