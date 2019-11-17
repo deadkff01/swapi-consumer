@@ -1,8 +1,28 @@
 import React from 'react'
+import { render, waitForElement } from '@testing-library/react'
+import { BrowserRouter } from 'react-router-dom'
+import moxios from 'moxios'
 import Main from './Main'
-import { render } from '@testing-library/react'
+import allMovies from '../../__mocks__/mockMovies'
 
-it('renders the component', () => {
-  const container = render(<Main />)
-  expect(container).toMatchSnapshot()
+const MainComponent = (
+  <BrowserRouter>
+    <Main />
+  </BrowserRouter>
+)
+
+it('renders the component', async () => {
+  moxios.install()
+  const { getByTestId } = render(MainComponent)
+  moxios.wait(() => {
+    const request = moxios.requests.mostRecent()
+    request.respondWith({
+      status: 200,
+      response: { results: allMovies }
+    })
+  })
+
+  expect(getByTestId('loading')).toBeDefined()
+  await waitForElement(() => getByTestId('resolved'))
+  expect(getByTestId('resolved')).toMatchSnapshot()
 })

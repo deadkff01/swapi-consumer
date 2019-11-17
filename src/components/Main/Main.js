@@ -38,7 +38,7 @@ const Main = () => {
   }
 
   return (
-    <div data-test="component-main">
+    <div data-testid="component-main">
       {isLoading ? (
         <Loader data-testid="loading" />
       ) : (
