@@ -4,7 +4,7 @@ import { render, cleanup } from '@testing-library/react'
 import { BrowserRouter } from 'react-router-dom'
 import moment from 'moment'
 import MovieInfo from './MovieInfo'
-import allMovies from '../../__mocks__/mockMovies'
+import allMovies from '__mocks__/mockMovies'
 
 const MovieInfoComponent = props => (
   <BrowserRouter>

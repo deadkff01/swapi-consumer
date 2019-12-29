@@ -3,7 +3,7 @@ import { render, waitForElement } from '@testing-library/react'
 import { BrowserRouter } from 'react-router-dom'
 import moxios from 'moxios'
 import Main from './Main'
-import allMovies from '../../__mocks__/mockMovies'
+import allMovies from '__mocks__/mockMovies'
 
 const MainComponent = (
   <BrowserRouter>

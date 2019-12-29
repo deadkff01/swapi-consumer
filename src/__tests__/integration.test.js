@@ -1,7 +1,7 @@
 import React from 'react'
-import Main from './components/Main'
+import Main from 'components/Main'
 import moxios from 'moxios'
-import allMovies from './__mocks__/mockMovies'
+import allMovies from '__mocks__/mockMovies'
 import { BrowserRouter } from 'react-router-dom'
 import { render, cleanup, waitForElement } from '@testing-library/react'
 

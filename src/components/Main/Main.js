@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import baseService from '../../services/baseService'
+import baseService from 'services/baseService'
 import Row from '../Common/Row'
 import MoviesList from '../Common/MoviesList'
 import Loader from '../Common/Loader'

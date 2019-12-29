@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { SWAPI_ENDPOINT } from '../consts'
+import { SWAPI_ENDPOINT } from 'consts'
 
 /**
  * Return axios customized instance
